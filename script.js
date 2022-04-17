@@ -62,9 +62,3 @@ function animated(){
 $('#new-quote').on('click', function(){
     getQuotes();
 });
-
-$('#new-quote').on('keyup', function(event){
-    if(event.keyCode === 13){
-        getQuotes();
-    }
-});
