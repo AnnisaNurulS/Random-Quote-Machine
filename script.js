@@ -62,3 +62,5 @@ function animated(){
 $('#new-quote').on('click', function(){
     getQuotes();
 });
+
+$(".container").draggable();
