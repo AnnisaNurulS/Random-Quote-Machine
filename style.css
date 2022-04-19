@@ -8,6 +8,8 @@
 
 body{
     background-color: black;
+    max-width: 100%;
+    overflow: hidden;
 }
 
 #img-container{
@@ -89,6 +91,11 @@ body{
 #tweet-quote{
     padding: 15px;
     background-color: white;
+    cursor: pointer;
+}
+#tweet-quote:hover{
+    background-color: black;
+    color: white;
 }
 
 #tweet-quote::before{
@@ -108,4 +115,10 @@ a{
     font-weight: bold;
     background-color: white;
     color: black;
+    cursor: pointer;
+}
+
+#new-quote:hover{
+    background-color: black;
+    color: white;
 }
