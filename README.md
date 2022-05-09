@@ -6,11 +6,8 @@ this project was created using :
   <li>CSS</li>
   <li>JavaScript (JQuery)</li>
 </ul>
-<br>
 
-<p align="center">
-  <img src="file/random-quote.jpg" width="70%">
-</p>
+## Live Demo : https://annisanuruls.github.io/Random-Quote-Machine/
 
 ## show different quote with the author picture
 <p align="center">
