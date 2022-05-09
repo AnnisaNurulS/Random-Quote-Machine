@@ -18,7 +18,7 @@ $('#author').html("Albert Einstein");
 
 function getQuotes(){
     return $.ajax({
-        url: 'https://gist.githubusercontent.com/AnnisaNurulS/4f05c6a994f53b16b62355aac1f4accc/raw/50b247f5612c321859c60e7b2dc16fc489c55e1f/quotes_and_img.json',
+        url: 'https://gist.githubusercontent.com/annisanuruls/4f05c6a994f53b16b62355aac1f4accc/raw/f6efb23a4125f24f3ce6fa1437120710f59fac1e/quotes_and_img.json',
         type: 'get',
         dataType: 'json',
         success: function(result){
