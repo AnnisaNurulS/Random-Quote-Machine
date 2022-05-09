@@ -14,7 +14,7 @@ body{
 
 #img-container{
     background-color: rgba(0, 0, 0, 0.387);
-    background-image: url(https://raw.githubusercontent.com/AnnisaNurulS/Random-Quote-Machine/main/img/albert_einstein.jpg);
+    background-image: url(https://res.cloudinary.com/drq9qbozr/image/upload/v1652083250/Images/albert_einstein_walnfn.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
