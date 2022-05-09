@@ -1,6 +1,6 @@
 # Random-Quote-Machine
-FreeCodeCamp Front End Development Libraries Projects
-## Languages
+FreeCodeCamp Front End Development Libraries Projects - <a href="https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine">Build a Random Quote Machine</a><br>
+this project was created using : 
 <ul>
   <li background-color="purple">HTML</li>
   <li>CSS</li>
@@ -28,8 +28,7 @@ FreeCodeCamp Front End Development Libraries Projects
 </p>
 <br>
 
-### <li>Quote List</li>
-https://gist.githubusercontent.com/annisanuruls/4bbaec23893368fde783689d90ad297f/raw/5ee2a90f31a8aa4307c28e599d7caee33a3016eb/quotes_and_img.json
+## And Other Things
+### <li><a href="https://gist.githubusercontent.com/annisanuruls/4bbaec23893368fde783689d90ad297f/raw/5ee2a90f31a8aa4307c28e599d7caee33a3016eb/quotes_and_img.json">Quote List</a></li>
 
-### <li>CodePen Submit Link for FreeCodeCamp</li>
-https://codepen.io/Owl_20400/full/YzYdzKx
+### <li><a href="https://codepen.io/Owl_20400/full/YzYdzKx">CodePen Submit Link for FreeCodeCamp</a></li>
